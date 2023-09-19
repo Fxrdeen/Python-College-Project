@@ -1,6 +1,6 @@
-# Python-College-Project
-These files are my first push on github.
+# FlightCrux
 
-These files are nothing but my 1st Sem Python College Project Which Scrapes Flight Data of 3-5 flights from MakeMyTrip.com and sends the information to the user's Gmail ID.
+The script scrapes cheapest flight information from MakeMyTrip.com using the selenium module of Python and send the user a detailed mail having all the flight iterenary.
+It uses MySQL as a backend to store the user data.
 
 
